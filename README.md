@@ -12,6 +12,10 @@ python -m http.server 4173 --directory dist
 
 Open http://localhost:4173 in your browser.
 
+## Deploy to Vercel
+
+Import this repository with the repository root as the Root Directory. The included `vercel.json` selects the static `dist` folder as the output directory; no build command is required.
+
 ## Features
 
 - Interactive hero with generated daylight and evening room imagery
