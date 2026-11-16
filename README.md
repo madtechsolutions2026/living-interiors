@@ -18,12 +18,14 @@ Import this repository with the repository root as the Root Directory. The inclu
 
 ## Features
 
-- Interactive hero with generated daylight and evening room imagery
-- Room-by-room services, a filterable gallery, and image viewing controls
+- Full-bleed hero carousel with four interior images and a top-to-bottom reveal
+- Room-by-room services, a filterable masonry gallery, and image viewing controls
 - Animated room design journey with replay and manual stage controls
 - Interactive material samples and colour stories
 - Studio team profiles, directions, and WhatsApp enquiry links
 - Illustrated interior footer with a lighting control
+- Smooth anchor scrolling, a floating header, and distinct section reveal transitions
+- Project enquiry form that prepares a WhatsApp draft for review
 - Responsive layouts, keyboard controls, and reduced-motion support
 
 ## Files
@@ -32,3 +34,4 @@ Import this repository with the repository root as the Root Directory. The inclu
 - `hero-image-prompts.md`: image generation prompts and asset provenance
 
 Existing studio images and content were adapted from https://thelivinginteriors.com/ for this demo. Generated hero imagery is labelled as concept imagery, not a completed client project.
+
